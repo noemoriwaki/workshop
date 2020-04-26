@@ -28,6 +28,7 @@ if ($_SESSION["login"]) {
     echo "ログインしていません。";
 }
 
+
 ?>
 
 <!DOCTYPE html>
